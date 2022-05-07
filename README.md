@@ -19,13 +19,13 @@ binstall -[option] filename
 binstall -help
 ```
 
-###Roadmap
+##Roadmap
 - [x] Unix/Linux/Darwin Compatibility 
 - [ ] Windows Compatibility
 - [ ] Direct Compile 
 - [ ] Direct from Cargo Install
 
-###Changelog:
+######Changelog:
 
 
 1.0.0 - Initial Release. Unix-like is fully supported.
