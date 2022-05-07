@@ -9,6 +9,8 @@ This package will enable tracking, installation and uninstallation of custom bia
 
 ##Installation.
 
+*install with [rust-lang](https://www.rust-lang.org)*
+
 ```
 cargo build --release
 sudo binstall --install target/release/binstall
