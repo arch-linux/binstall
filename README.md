@@ -11,7 +11,7 @@ This intent for this package is to be a small cog in a greater package to compil
 
 ##Installation.
 
-*install with [rust-lang](https://www.rust-lang.org)*
+*install with [rust-lang](https://www.rust-lang.org)* *Pre-compiled bianaries coming soon*
 
 ```
 cargo build --release
