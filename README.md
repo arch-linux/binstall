@@ -1,6 +1,7 @@
 # binstall
 A low-level CLI tool for installing/uninstalling custom bianaries to systems, keeps a basic record of installed bianaries for automated removal later.
 
+***This software is a work in progress and requires elevated access to operate - use with great care.***
 
 Unix-like and Darwin (MacOS) systems are currently supported. Windows Operability is on the todo-list. 
 
