@@ -7,7 +7,7 @@ Unix-like and Darwin (MacOS) systems are currently supported. Windows Operabilit
 
 This package will enable tracking, installation and uninstallation of custom bianaries. The CLI maintains a simple record of what has been installed so it can be removed at a later time with no fuss.
 
-This intent for this package package is to be a small cog in a greater package to compile, install and manage system tools build entirely in rust.
+This intent for this package is to be a small cog in a greater package to compile, install and manage system tools build entirely in rust.
 
 ##Installation.
 
